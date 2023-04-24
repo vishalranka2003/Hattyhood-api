@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Sustainable Product",
+    "products": [
+      {
+        "id": 11,
+        "name": "Coffee Mug",
+        "price": 180,
+        "description": "Freshly pulled shots of espresso combined with hot water.",
+        "image": "coffeemug.png"
+      },
+      {
+        "id": 12,
+        "name": "TeaCup",
+        "price": 375,
+        "description": "A freshly pulled shot of espresso layered with steamed whole milk and thick rich foam to offer a luxurious velvety texture and complex aroma.",
+        "image": "teacup.png"
+      },
+      {
+        "id": 13,
+        "name": "Jute Bag",
+        "price": 325,
+        "description": "Our perfectly roasted coffees are blended with our powders, steamed non-fat milk and topped with thick foam to create a delicious pick-me-up treat.",
+        "image": "jutebag.png"
+      },
+      {
+        "id": 14,
+        "name": "Bamboo bottle",
+        "price": 350,
+        "description": "We start with an extra shot of espresso, combine them with one of our signature powders, and finished with lightly aerated milk to create the perfect, velvety espresso beverage. Available in hazelnut, vanilla, mocha or classic flat white.",
+        "image": "bamboobottle.png"
+      },
+      {
+        "id": 14,
+        "name": "Sippers",
+        "price": 350,
+        "description": "We start with an extra shot of espresso, combine them with one of our signature powders, and finished with lightly aerated milk to create the perfect, velvety espresso beverage. Available in hazelnut, vanilla, mocha or classic flat white.",
+        "image": "bamboobottle.png"
+      }
+    ]
+  },
+  {
+    "name": "Merchandise",
+    "products": [
+      {
+        "id": 21,
+        "name": "Varsity Jacket",
+        "price": 3750,
+        "description": "Non-fat milk blended with our signature powders and ice and then topped with whipped cream. A delicious non-caffeinated treat.",
+        "image": "varsity.png"
+      },
+      {
+        "id": 22,
+        "name": "Sweatshirt",
+        "price": 800,
+        "description": "Our specially brewed coffee served over ice for a refreshing and bold coffee taste",
+        "image": "sweatshirt.png"
+      },
+      {
+        "id": 23,
+        "name": "TShirt",
+        "price": 350,
+        "description": "Our signature Cold Brew Coffee is a premium blend of Bali Blue Moon and Ethiopia Yirgacheffe coffees with chicory steeped cold for 20 hours for rich, vibrant flavors.",
+        "image": "tee.png"
+      }
+    ]
+  },
+  {
+    "name": "Marketing collateral",
+    "products": [
+      {
+        "id": 31,
+        "name": "Mug",
+        "price": 1.75,
+        "description": "Like oolong and black tea, green tea comes from the plant Camellia sinensis. Green tea's delightfully delicate flavor is due to its minimal oxidation. It is processed to take a variety of forms, from finely ground powder to long, curling leaves. Though it originated in China, where it has been consumed for over 4,000 years, green tea is now grown in Japan and Sri Lanka, and enjoyed throughout the world.",
+        "image": "greentea.png"
+      },
+      {
+        "id": 21,
+        "name": "Bottles",
+        "price": 3750,
+        "description": "Non-fat milk blended with our signature powders and ice and then topped with whipped cream. A delicious non-caffeinated treat.",
+        "image": "bottle.png"
+      },
+      {
+        "id": 32,
+        "name": "Cap",
+        "price": 1.75,
+        "description": "Like green and oolong teas, black tea comes from the Camellia sinensis plant. Its darker hue and stronger taste result from the greater level of oxidation it undergoes during processing. From delicate Darjeeling to strong Ceylon, each variety has distinct characteristics, making black tea a beloved beverage across the globe.",
+        "image": "blacktea.png"
+      },
+      {
+        "id": 32,
+        "name": "Onboarding Kit",
+        "price": 1.75,
+        "description": "Like green and oolong teas, black tea comes from the Camellia sinensis plant. Its darker hue and stronger taste result from the greater level of oxidation it undergoes during processing. From delicate Darjeeling to strong Ceylon, each variety has distinct characteristics, making black tea a beloved beverage across the globe.",
+        "image": "onboarding.png"
+      },
+      {
+        "id": 32,
+        "name": "Momento",
+        "price": 1.75,
+        "description": "Like green and oolong teas, black tea comes from the Camellia sinensis plant. Its darker hue and stronger taste result from the greater level of oxidation it undergoes during processing. From delicate Darjeeling to strong Ceylon, each variety has distinct characteristics, making black tea a beloved beverage across the globe.",
+        "image": "blacktea.png"
+      }
+    ]
+  }
+]
